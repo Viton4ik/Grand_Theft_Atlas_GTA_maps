@@ -1,0 +1,1598 @@
+{
+ "ch00": {
+  "dur": 25.202,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "This is Liberty City in 1997. All of it.",
+    "start": 0.8,
+    "end": 5.837,
+    "phrases": [
+     {
+      "text": "This is Liberty City in 1997.",
+      "start": 0.8,
+      "end": 4.644
+     },
+     {
+      "text": "All of it.",
+      "start": 4.984,
+      "end": 5.837
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "Twenty-nine years later, the map is so big it needs its own weather, its own wildlife\u2026 and its own state.",
+    "start": 6.737,
+    "end": 14.284,
+    "phrases": [
+     {
+      "text": "Twenty-nine years later, the map is so big it needs its own weather,",
+      "start": 6.737,
+      "end": 10.768
+     },
+     {
+      "text": "its own wildlife\u2026",
+      "start": 11.108,
+      "end": 12.622
+     },
+     {
+      "text": "and its own state.",
+      "start": 12.962,
+      "end": 14.284
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "This is the story of how a few hundred pixels of New York became an entire fake Florida. Grand Theft Atlas.",
+    "start": 15.184,
+    "end": 23.402,
+    "phrases": [
+     {
+      "text": "This is the story of how a few hundred pixels of New York became an entire fake Florida.",
+      "start": 15.184,
+      "end": 21.088
+     },
+     {
+      "text": "Grand Theft Atlas.",
+      "start": 21.808,
+      "end": 23.402
+     }
+    ]
+   }
+  ]
+ },
+ "ch01": {
+  "dur": 40.916,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "The first GTA came out of DMA Design, a small Scottish studio, in 1997. Three cities, each one a real place wearing a fake moustache.",
+    "start": 0.4,
+    "end": 11.933,
+    "phrases": [
+     {
+      "text": "The first GTA came out of DMA Design, a small Scottish studio, in 1997.",
+      "start": 0.4,
+      "end": 7.59
+     },
+     {
+      "text": "Three cities, each one a real place wearing a fake moustache.",
+      "start": 7.93,
+      "end": 11.933
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "Liberty City was New York. San Andreas, San Francisco. Vice City, Miami.",
+    "start": 12.283,
+    "end": 19.235,
+    "phrases": [
+     {
+      "text": "Liberty City was New York.",
+      "start": 12.283,
+      "end": 14.428
+     },
+     {
+      "text": "San Andreas, San Francisco.",
+      "start": 14.768,
+      "end": 17.166
+     },
+     {
+      "text": "Vice City, Miami.",
+      "start": 17.506,
+      "end": 19.235
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "You saw it all from straight above, like a pigeon with a criminal record. There was no minimap. There was an arrow. The arrow believed in you.",
+    "start": 19.585,
+    "end": 30.0,
+    "phrases": [
+     {
+      "text": "You saw it all from straight above, like a pigeon with a criminal record.",
+      "start": 19.585,
+      "end": 23.894
+     },
+     {
+      "text": "There was no minimap.",
+      "start": 24.234,
+      "end": 25.598
+     },
+     {
+      "text": "There was an arrow.",
+      "start": 25.938,
+      "end": 27.384
+     },
+     {
+      "text": "The arrow believed in you.",
+      "start": 28.104,
+      "end": 30.0
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "And some streets stayed locked until you'd done enough crime to deserve them. Remember that idea. It's coming back. Many, many times.",
+    "start": 30.35,
+    "end": 39.916,
+    "phrases": [
+     {
+      "text": "And some streets stayed locked until you'd done enough crime to deserve them.",
+      "start": 30.35,
+      "end": 34.628
+     },
+     {
+      "text": "Remember that idea.",
+      "start": 34.968,
+      "end": 36.687
+     },
+     {
+      "text": "It's coming back.",
+      "start": 37.027,
+      "end": 38.138
+     },
+     {
+      "text": "Many, many times.",
+      "start": 38.478,
+      "end": 39.916
+     }
+    ]
+   }
+  ]
+ },
+ "ch02": {
+  "dur": 33.199,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Then GTA did something it has never done since. It went to a real city, and used its real name.",
+    "start": 0.4,
+    "end": 7.316,
+    "phrases": [
+     {
+      "text": "Then GTA did something it has never done since.",
+      "start": 0.4,
+      "end": 3.788
+     },
+     {
+      "text": "It went to a real city, and used its real name.",
+      "start": 4.128,
+      "end": 7.316
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "London, 1969. Piccadilly Circus, real street names, and driving on the left. Which is still the most dangerous mission in the series.",
+    "start": 7.666,
+    "end": 18.605,
+    "phrases": [
+     {
+      "text": "London, 1969.",
+      "start": 7.666,
+      "end": 10.377
+     },
+     {
+      "text": "Piccadilly Circus, real street names, and driving on the left.",
+      "start": 10.717,
+      "end": 14.737
+     },
+     {
+      "text": "Which is still the most dangerous mission in the series.",
+      "start": 15.457,
+      "end": 18.605
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "A free add-on, London 1961, went back eight years earlier, and even slipped in a multiplayer map of Manchester. Rain not included. Rain implied.",
+    "start": 18.955,
+    "end": 32.199,
+    "phrases": [
+     {
+      "text": "A free add-on, London 1961, went back eight years earlier,",
+      "start": 18.955,
+      "end": 24.368
+     },
+     {
+      "text": "and even slipped in a multiplayer map of Manchester.",
+      "start": 24.708,
+      "end": 28.274
+     },
+     {
+      "text": "Rain not included.",
+      "start": 28.614,
+      "end": 30.133
+     },
+     {
+      "text": "Rain implied.",
+      "start": 30.853,
+      "end": 32.199
+     }
+    ]
+   }
+  ]
+ },
+ "ch03": {
+  "dur": 26.077,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "GTA 2 went the other way: a city with no real-world twin at all. Its name was literally, Anywhere.",
+    "start": 0.4,
+    "end": 7.931,
+    "phrases": [
+     {
+      "text": "GTA 2 went the other way: a city with no real-world twin at all.",
+      "start": 0.4,
+      "end": 5.434
+     },
+     {
+      "text": "Its name was literally, Anywhere.",
+      "start": 5.774,
+      "end": 7.931
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "A retro-future metropolis in three districts: Downtown, Residential, and Industrial. Each with its own gangs, its own radio, and its own reasons to shoot you.",
+    "start": 8.281,
+    "end": 21.323,
+    "phrases": [
+     {
+      "text": "A retro-future metropolis in three districts:",
+      "start": 8.281,
+      "end": 11.477
+     },
+     {
+      "text": "Downtown,",
+      "start": 11.817,
+      "end": 12.762
+     },
+     {
+      "text": "Residential,",
+      "start": 13.102,
+      "end": 14.121
+     },
+     {
+      "text": "and Industrial.",
+      "start": 14.461,
+      "end": 15.613
+     },
+     {
+      "text": "Each with its own gangs, its own radio,",
+      "start": 15.953,
+      "end": 18.716
+     },
+     {
+      "text": "and its own reasons to shoot you.",
+      "start": 19.056,
+      "end": 21.323
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "So where is Anywhere? Exactly.",
+    "start": 21.723,
+    "end": 24.877,
+    "phrases": [
+     {
+      "text": "So where is Anywhere?",
+      "start": 21.723,
+      "end": 23.27
+     },
+     {
+      "text": "Exactly.",
+      "start": 23.99,
+      "end": 24.877
+     }
+    ]
+   }
+  ]
+ },
+ "ch04": {
+  "dur": 54.511,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2001, the camera came down from the sky and landed behind your shoulder. And everything changed.",
+    "start": 0.4,
+    "end": 8.482,
+    "phrases": [
+     {
+      "text": "In 2001, the camera came down from the sky and landed behind your shoulder.",
+      "start": 0.4,
+      "end": 6.184
+     },
+     {
+      "text": "And everything changed.",
+      "start": 6.904,
+      "end": 8.482
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "Liberty City returned in full 3D, built across three islands: Portland, Staunton Island, and Shoreside Vale.",
+    "start": 8.832,
+    "end": 17.756,
+    "phrases": [
+     {
+      "text": "Liberty City returned in full 3D, built across three islands:",
+      "start": 8.832,
+      "end": 13.264
+     },
+     {
+      "text": "Portland,",
+      "start": 13.604,
+      "end": 14.435
+     },
+     {
+      "text": "Staunton Island,",
+      "start": 14.775,
+      "end": 15.997
+     },
+     {
+      "text": "and Shoreside Vale.",
+      "start": 16.337,
+      "end": 17.756
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "But you couldn't go everywhere at once. The bridge to Staunton had just been blown up. The bridge to Shoreside was broken. The tunnel was still under construction.",
+    "start": 18.106,
+    "end": 29.137,
+    "phrases": [
+     {
+      "text": "But you couldn't go everywhere at once.",
+      "start": 18.106,
+      "end": 20.227
+     },
+     {
+      "text": "The bridge to Staunton had just been blown up.",
+      "start": 20.567,
+      "end": 23.527
+     },
+     {
+      "text": "The bridge to Shoreside was broken.",
+      "start": 23.867,
+      "end": 26.289
+     },
+     {
+      "text": "The tunnel was still under construction.",
+      "start": 26.629,
+      "end": 29.137
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "This is the birth of the great GTA tradition: the closed bridge. Rockstar would spend the next twenty-five years inventing reasons for it.",
+    "start": 29.487,
+    "end": 39.557,
+    "phrases": [
+     {
+      "text": "This is the birth of the great GTA tradition:",
+      "start": 29.487,
+      "end": 32.742
+     },
+     {
+      "text": "the closed bridge.",
+      "start": 33.462,
+      "end": 34.754
+     },
+     {
+      "text": "Rockstar would spend the next twenty-five years inventing reasons for it.",
+      "start": 35.094,
+      "end": 39.557
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "And for the first time, a radar sat in the corner of the screen, telling you where you were. Not where to go. Just where you were.",
+    "start": 39.907,
+    "end": 48.423,
+    "phrases": [
+     {
+      "text": "And for the first time, a radar sat in the corner of the screen, telling you where you were.",
+      "start": 39.907,
+      "end": 45.06
+     },
+     {
+      "text": "Not where to go.",
+      "start": 45.4,
+      "end": 46.677
+     },
+     {
+      "text": "Just where you were.",
+      "start": 47.017,
+      "end": 48.423
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "Total area: about eight square kilometres. Remember the number.",
+    "start": 48.773,
+    "end": 53.511,
+    "phrases": [
+     {
+      "text": "Total area: about eight square kilometres.",
+      "start": 48.773,
+      "end": 51.734
+     },
+     {
+      "text": "Remember the number.",
+      "start": 52.074,
+      "end": 53.511
+     }
+    ]
+   }
+  ]
+ },
+ "ch05": {
+  "dur": 42.891,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "One year later: Miami, 1986. Or, as the game calls it, Vice City.",
+    "start": 0.4,
+    "end": 7.121,
+    "phrases": [
+     {
+      "text": "One year later: Miami, 1986.",
+      "start": 0.4,
+      "end": 4.21
+     },
+     {
+      "text": "Or, as the game calls it, Vice City.",
+      "start": 4.55,
+      "end": 7.121
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "Two big islands, a bay full of millionaires' little islands in between, and pastel art-deco hotels along the beach.",
+    "start": 7.471,
+    "end": 15.672,
+    "phrases": [
+     {
+      "text": "Two big islands, a bay full of millionaires' little islands in between,",
+      "start": 7.471,
+      "end": 12.142
+     },
+     {
+      "text": "and pastel art-deco hotels along the beach.",
+      "start": 12.482,
+      "end": 15.672
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "You start on the beach side, because every bridge to the mainland is closed. Why? Hurricane Hermione.",
+    "start": 16.022,
+    "end": 23.926,
+    "phrases": [
+     {
+      "text": "You start on the beach side, because every bridge to the mainland is closed.",
+      "start": 16.022,
+      "end": 20.405
+     },
+     {
+      "text": "Why?",
+      "start": 20.745,
+      "end": 21.415
+     },
+     {
+      "text": "Hurricane Hermione.",
+      "start": 22.135,
+      "end": 23.926
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "Excuse number two: weather.",
+    "start": 24.226,
+    "end": 26.834,
+    "phrases": [
+     {
+      "text": "Excuse number two:",
+      "start": 24.226,
+      "end": 25.856
+     },
+     {
+      "text": "weather.",
+      "start": 26.196,
+      "end": 26.834
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "No trains, no subway. Just bridges, boats, and a lot of very fast cars with very loud stereos.",
+    "start": 27.184,
+    "end": 34.505,
+    "phrases": [
+     {
+      "text": "No trains, no subway.",
+      "start": 27.184,
+      "end": 29.126
+     },
+     {
+      "text": "Just bridges, boats, and a lot of very fast cars with very loud stereos.",
+      "start": 29.466,
+      "end": 34.505
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "At about nine square kilometres, it was barely bigger than Liberty City. The next step would not be small.",
+    "start": 34.855,
+    "end": 41.891,
+    "phrases": [
+     {
+      "text": "At about nine square kilometres, it was barely bigger than Liberty City.",
+      "start": 34.855,
+      "end": 39.459
+     },
+     {
+      "text": "The next step would not be small.",
+      "start": 39.799,
+      "end": 41.891
+     }
+    ]
+   }
+  ]
+ },
+ "ch06": {
+  "dur": 65.79,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2004, GTA stopped making cities, and started making states.",
+    "start": 0.4,
+    "end": 6.628,
+    "phrases": [
+     {
+      "text": "In 2004, GTA stopped making cities,",
+      "start": 0.4,
+      "end": 4.34
+     },
+     {
+      "text": "and started making states.",
+      "start": 4.68,
+      "end": 6.628
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "San Andreas had three cities. Los Santos, for Los Angeles. San Fierro, for San Francisco. And Las Venturas, for Las Vegas.",
+    "start": 6.978,
+    "end": 17.511,
+    "phrases": [
+     {
+      "text": "San Andreas had three cities.",
+      "start": 6.978,
+      "end": 9.356
+     },
+     {
+      "text": "Los Santos, for Los Angeles.",
+      "start": 9.696,
+      "end": 12.019
+     },
+     {
+      "text": "San Fierro, for San Francisco.",
+      "start": 12.359,
+      "end": 14.751
+     },
+     {
+      "text": "And Las Venturas, for Las Vegas.",
+      "start": 15.091,
+      "end": 17.511
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "And between the cities, for the first time, there was nothing. Glorious nothing.",
+    "start": 17.861,
+    "end": 23.355,
+    "phrases": [
+     {
+      "text": "And between the cities, for the first time, there was nothing.",
+      "start": 17.861,
+      "end": 21.303
+     },
+     {
+      "text": "Glorious nothing.",
+      "start": 22.023,
+      "end": 23.355
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "Forests, farms, desert, a dam, a giant radio telescope, and a mountain called Chiliad that every player has fallen off at least once.",
+    "start": 23.705,
+    "end": 32.962,
+    "phrases": [
+     {
+      "text": "Forests, farms, desert, a dam, a giant radio telescope,",
+      "start": 23.705,
+      "end": 27.991
+     },
+     {
+      "text": "and a mountain called Chiliad that every player has fallen off at least once.",
+      "start": 28.331,
+      "end": 32.962
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "A slice of three real states was squeezed into one island you could drive across in a few minutes.",
+    "start": 33.312,
+    "end": 39.626,
+    "phrases": [
+     {
+      "text": "A slice of three real states was squeezed into one island you could drive across in a few minutes.",
+      "start": 33.312,
+      "end": 39.626
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "And the locked zones? This time, no hurricane. Cross the border too early, and the police simply decided you'd committed a crime. Excuse number three: because we said so.",
+    "start": 39.976,
+    "end": 52.421,
+    "phrases": [
+     {
+      "text": "And the locked zones?",
+      "start": 39.976,
+      "end": 41.405
+     },
+     {
+      "text": "This time, no hurricane.",
+      "start": 41.745,
+      "end": 43.607
+     },
+     {
+      "text": "Cross the border too early, and the police simply decided you'd committed a crime.",
+      "start": 43.947,
+      "end": 49.007
+     },
+     {
+      "text": "Excuse number three: because we said so.",
+      "start": 49.727,
+      "end": 52.421
+     }
+    ]
+   },
+   {
+    "id": "L7",
+    "text": "San Andreas also let you put your own marker on the map, for the first time. Getting there was still up to you.",
+    "start": 52.771,
+    "end": 59.623,
+    "phrases": [
+     {
+      "text": "San Andreas also let you put your own marker on the map, for the first time.",
+      "start": 52.771,
+      "end": 57.549
+     },
+     {
+      "text": "Getting there was still up to you.",
+      "start": 57.889,
+      "end": 59.623
+     }
+    ]
+   },
+   {
+    "id": "L8",
+    "text": "Thirty-eight square kilometres. Four times bigger than Vice City.",
+    "start": 59.973,
+    "end": 64.79,
+    "phrases": [
+     {
+      "text": "Thirty-eight square kilometres.",
+      "start": 59.973,
+      "end": 62.038
+     },
+     {
+      "text": "Four times bigger than Vice City.",
+      "start": 62.378,
+      "end": 64.79
+     }
+    ]
+   }
+  ]
+ },
+ "ch07": {
+  "dur": 68.92,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "And then, for the first time in GTA history, the map got smaller.",
+    "start": 0.4,
+    "end": 5.168,
+    "phrases": [
+     {
+      "text": "And then, for the first time in GTA history,",
+      "start": 0.4,
+      "end": 3.456
+     },
+     {
+      "text": "the map got smaller.",
+      "start": 3.796,
+      "end": 5.168
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "GTA IV threw out the old Liberty City and rebuilt it from scratch, on a brand-new engine. Only about sixteen square kilometres. Less than half of San Andreas.",
+    "start": 5.518,
+    "end": 17.762,
+    "phrases": [
+     {
+      "text": "GTA IV threw out the old Liberty City and rebuilt it from scratch, on a brand-new engine.",
+      "start": 5.518,
+      "end": 12.005
+     },
+     {
+      "text": "Only about sixteen square kilometres.",
+      "start": 12.345,
+      "end": 14.964
+     },
+     {
+      "text": "Less than half of San Andreas.",
+      "start": 15.304,
+      "end": 17.762
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "But it grew upwards. Broker, for Brooklyn. Dukes, for Queens. Bohan, for the Bronx. Algonquin, for Manhattan. And across the river, Alderney, New Jersey, as a separate state.",
+    "start": 18.112,
+    "end": 31.212,
+    "phrases": [
+     {
+      "text": "But it grew upwards.",
+      "start": 18.112,
+      "end": 19.403
+     },
+     {
+      "text": "Broker, for Brooklyn.",
+      "start": 19.743,
+      "end": 21.224
+     },
+     {
+      "text": "Dukes, for Queens.",
+      "start": 21.564,
+      "end": 22.876
+     },
+     {
+      "text": "Bohan, for the Bronx.",
+      "start": 23.216,
+      "end": 24.753
+     },
+     {
+      "text": "Algonquin, for Manhattan.",
+      "start": 25.093,
+      "end": 27.033
+     },
+     {
+      "text": "And across the river, Alderney, New Jersey, as a separate state.",
+      "start": 27.373,
+      "end": 31.212
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "It was the most New York that New York had ever been in a game. Except for Staten Island, which simply wasn't invited.",
+    "start": 31.562,
+    "end": 39.9,
+    "phrases": [
+     {
+      "text": "It was the most New York that New York had ever been in a game.",
+      "start": 31.562,
+      "end": 35.52
+     },
+     {
+      "text": "Except for Staten Island,",
+      "start": 35.86,
+      "end": 37.574
+     },
+     {
+      "text": "which simply wasn't invited.",
+      "start": 37.914,
+      "end": 39.9
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "The bridges? Closed, of course. Terror alert. Excuse number four.",
+    "start": 40.25,
+    "end": 46.754,
+    "phrases": [
+     {
+      "text": "The bridges?",
+      "start": 40.25,
+      "end": 41.22
+     },
+     {
+      "text": "Closed, of course.",
+      "start": 41.56,
+      "end": 42.898
+     },
+     {
+      "text": "Terror alert.",
+      "start": 43.618,
+      "end": 44.744
+     },
+     {
+      "text": "Excuse number four.",
+      "start": 45.084,
+      "end": 46.754
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "But the real revolution was in the corner of the screen. Set a waypoint, and GPS drew the route for you, and recalculated it when you ignored it. In the fancy cars, it even talked.",
+    "start": 47.104,
+    "end": 59.518,
+    "phrases": [
+     {
+      "text": "But the real revolution was in the corner of the screen.",
+      "start": 47.104,
+      "end": 50.442
+     },
+     {
+      "text": "Set a waypoint, and GPS drew the route for you,",
+      "start": 50.782,
+      "end": 53.852
+     },
+     {
+      "text": "and recalculated it when you ignored it.",
+      "start": 54.192,
+      "end": 56.781
+     },
+     {
+      "text": "In the fancy cars, it even talked.",
+      "start": 57.121,
+      "end": 59.518
+     }
+    ]
+   },
+   {
+    "id": "L7",
+    "text": "A year later, Chinatown Wars shrank this same city onto a Nintendo DS, and quietly cut Alderney off the map.",
+    "start": 59.868,
+    "end": 67.92,
+    "phrases": [
+     {
+      "text": "A year later, Chinatown Wars shrank this same city onto a Nintendo DS,",
+      "start": 59.868,
+      "end": 65.163
+     },
+     {
+      "text": "and quietly cut Alderney off the map.",
+      "start": 65.503,
+      "end": 67.92
+     }
+    ]
+   }
+  ]
+ },
+ "ch08": {
+  "dur": 75.79,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2013, GTA went back to Los Santos. But not the old one.",
+    "start": 0.4,
+    "end": 6.212,
+    "phrases": [
+     {
+      "text": "In 2013, GTA went back to Los Santos.",
+      "start": 0.4,
+      "end": 4.573
+     },
+     {
+      "text": "But not the old one.",
+      "start": 4.913,
+      "end": 6.212
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "GTA V rebuilt southern San Andreas: the city of Los Santos, and the wide-open Blaine County.",
+    "start": 6.562,
+    "end": 14.607,
+    "phrases": [
+     {
+      "text": "GTA V rebuilt southern San Andreas:",
+      "start": 6.562,
+      "end": 9.82
+     },
+     {
+      "text": "the city of Los Santos,",
+      "start": 10.16,
+      "end": 12.072
+     },
+     {
+      "text": "and the wide-open Blaine County.",
+      "start": 12.412,
+      "end": 14.607
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "Mount Chiliad came back. A salty inland sea, a desert, a military base, and a coast full of very expensive houses with very bad neighbours.",
+    "start": 14.957,
+    "end": 25.12,
+    "phrases": [
+     {
+      "text": "Mount Chiliad came back.",
+      "start": 14.957,
+      "end": 16.564
+     },
+     {
+      "text": "A salty inland sea, a desert, a military base,",
+      "start": 16.904,
+      "end": 20.352
+     },
+     {
+      "text": "and a coast full of very expensive houses with very bad neighbours.",
+      "start": 20.692,
+      "end": 25.12
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "And then it added a new direction: down.",
+    "start": 25.47,
+    "end": 29.322,
+    "phrases": [
+     {
+      "text": "And then it added a new direction:",
+      "start": 25.47,
+      "end": 27.863
+     },
+     {
+      "text": "down.",
+      "start": 28.583,
+      "end": 29.322
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "The entire ocean floor is modelled, with wrecks, caves, and things you should probably not be swimming next to.",
+    "start": 29.672,
+    "end": 36.86,
+    "phrases": [
+     {
+      "text": "The entire ocean floor is modelled, with wrecks, caves,",
+      "start": 29.672,
+      "end": 33.406
+     },
+     {
+      "text": "and things you should probably not be swimming next to.",
+      "start": 33.746,
+      "end": 36.86
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "Total area: almost seventy-six square kilometres. More than nine Liberty Cities from GTA III.",
+    "start": 37.21,
+    "end": 44.801,
+    "phrases": [
+     {
+      "text": "Total area: almost seventy-six square kilometres.",
+      "start": 37.21,
+      "end": 40.65
+     },
+     {
+      "text": "More than nine Liberty Cities from GTA III.",
+      "start": 40.99,
+      "end": 44.801
+     }
+    ]
+   },
+   {
+    "id": "L7",
+    "text": "And still, the real city of Los Angeles alone is about seventeen times bigger. Rockstar doesn't build cities. It builds the highlights.",
+    "start": 45.151,
+    "end": 55.035,
+    "phrases": [
+     {
+      "text": "And still, the real city of Los Angeles alone is about seventeen times bigger.",
+      "start": 45.151,
+      "end": 50.48
+     },
+     {
+      "text": "Rockstar doesn't build cities.",
+      "start": 51.2,
+      "end": 53.218
+     },
+     {
+      "text": "It builds the highlights.",
+      "start": 53.558,
+      "end": 55.035
+     }
+    ]
+   },
+   {
+    "id": "L8",
+    "text": "GTA V even had satellite maps: a snowy prologue in North Yankton, and, seven years later, Cayo Perico, the first new island ever added to GTA Online.",
+    "start": 55.385,
+    "end": 68.192,
+    "phrases": [
+     {
+      "text": "GTA V even had satellite maps:",
+      "start": 55.385,
+      "end": 58.367
+     },
+     {
+      "text": "a snowy prologue in North Yankton,",
+      "start": 58.707,
+      "end": 61.227
+     },
+     {
+      "text": "and, seven years later, Cayo Perico,",
+      "start": 61.567,
+      "end": 64.088
+     },
+     {
+      "text": "the first new island ever added to GTA Online.",
+      "start": 64.428,
+      "end": 68.192
+     }
+    ]
+   },
+   {
+    "id": "L9",
+    "text": "For more than a decade, this was the biggest GTA map ever made. Until now.",
+    "start": 68.542,
+    "end": 74.79,
+    "phrases": [
+     {
+      "text": "For more than a decade, this was the biggest GTA map ever made.",
+      "start": 68.542,
+      "end": 73.063
+     },
+     {
+      "text": "Until now.",
+      "start": 73.783,
+      "end": 74.79
+     }
+    ]
+   }
+  ]
+ },
+ "ch10": {
+  "dur": 33.353,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "So here they all are, side by side, at the same scale.",
+    "start": 0.4,
+    "end": 4.627,
+    "phrases": [
+     {
+      "text": "So here they all are, side by side,",
+      "start": 0.4,
+      "end": 2.984
+     },
+     {
+      "text": "at the same scale.",
+      "start": 3.324,
+      "end": 4.627
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "From eight square kilometres to seventy-six, with one dramatic dip in the middle, when Rockstar decided that taller beats wider.",
+    "start": 4.977,
+    "end": 13.903,
+    "phrases": [
+     {
+      "text": "From eight square kilometres to seventy-six,",
+      "start": 4.977,
+      "end": 7.908
+     },
+     {
+      "text": "with one dramatic dip in the middle,",
+      "start": 8.248,
+      "end": 10.544
+     },
+     {
+      "text": "when Rockstar decided that taller beats wider.",
+      "start": 10.884,
+      "end": 13.903
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "The camera went from the sky, to the shoulder, to the bottom of the ocean. The arrow became a radar. The radar became a GPS.",
+    "start": 14.253,
+    "end": 24.711,
+    "phrases": [
+     {
+      "text": "The camera went from the sky,",
+      "start": 14.253,
+      "end": 16.192
+     },
+     {
+      "text": "to the shoulder,",
+      "start": 16.532,
+      "end": 17.536
+     },
+     {
+      "text": "to the bottom of the ocean.",
+      "start": 17.876,
+      "end": 19.811
+     },
+     {
+      "text": "The arrow became a radar.",
+      "start": 20.151,
+      "end": 22.038
+     },
+     {
+      "text": "The radar became a GPS.",
+      "start": 22.378,
+      "end": 24.711
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "And the bridges? Five games, four excuses. And then, one day, they just left it open.",
+    "start": 25.061,
+    "end": 32.153,
+    "phrases": [
+     {
+      "text": "And the bridges?",
+      "start": 25.061,
+      "end": 26.142
+     },
+     {
+      "text": "Five games, four excuses.",
+      "start": 26.482,
+      "end": 28.642
+     },
+     {
+      "text": "And then, one day, they just left it open.",
+      "start": 29.362,
+      "end": 32.153
+     }
+    ]
+   }
+  ]
+ },
+ "ch11": {
+  "dur": 17.502,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Every GTA map is a love letter to a real place, written by someone who's a bit too fond of explosions.",
+    "start": 0.6,
+    "end": 8.116,
+    "phrases": [
+     {
+      "text": "Every GTA map is a love letter to a real place,",
+      "start": 0.6,
+      "end": 4.333
+     },
+     {
+      "text": "written by someone who's a bit too fond of explosions.",
+      "start": 4.673,
+      "end": 8.116
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "And it all started here. A few hundred pixels, and an arrow that believed in you.",
+    "start": 8.716,
+    "end": 14.502,
+    "phrases": [
+     {
+      "text": "And it all started here.",
+      "start": 8.716,
+      "end": 10.165
+     },
+     {
+      "text": "A few hundred pixels,",
+      "start": 10.505,
+      "end": 12.015
+     },
+     {
+      "text": "and an arrow that believed in you.",
+      "start": 12.355,
+      "end": 14.502
+     }
+    ]
+   }
+  ]
+ },
+ "ch09": {
+  "dur": 84.687,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "On the nineteenth of November 2026, GTA went back to Vice City. And Vice City turned out to be the small part.",
+    "start": 0.5,
+    "end": 9.404,
+    "phrases": [
+     {
+      "text": "On the nineteenth of November 2026, GTA went back to Vice City.",
+      "start": 0.5,
+      "end": 6.089
+     },
+     {
+      "text": "And Vice City turned out to be the small part.",
+      "start": 6.429,
+      "end": 9.404
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "Welcome to Leonida, Rockstar's Florida. The Leonida Keys, Vice City, the Grassrivers swamps, Ambrosia, Port Gellhorn, and Mount Kalaga.",
+    "start": 9.804,
+    "end": 22.407,
+    "phrases": [
+     {
+      "text": "Welcome to Leonida,",
+      "start": 9.804,
+      "end": 11.308
+     },
+     {
+      "text": "Rockstar's Florida.",
+      "start": 11.648,
+      "end": 13.166
+     },
+     {
+      "text": "The Leonida Keys,",
+      "start": 13.506,
+      "end": 14.826
+     },
+     {
+      "text": "Vice City,",
+      "start": 15.166,
+      "end": 16.175
+     },
+     {
+      "text": "the Grassrivers swamps,",
+      "start": 16.515,
+      "end": 18.029
+     },
+     {
+      "text": "Ambrosia,",
+      "start": 18.369,
+      "end": 19.372
+     },
+     {
+      "text": "Port Gellhorn,",
+      "start": 19.712,
+      "end": 20.756
+     },
+     {
+      "text": "and Mount Kalaga.",
+      "start": 21.096,
+      "end": 22.407
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "So, how big is it? Rockstar won't give us a number. Only riddles.",
+    "start": 22.807,
+    "end": 28.449,
+    "phrases": [
+     {
+      "text": "So, how big is it?",
+      "start": 22.807,
+      "end": 24.174
+     },
+     {
+      "text": "Rockstar won't give us a number.",
+      "start": 24.514,
+      "end": 26.583
+     },
+     {
+      "text": "Only riddles.",
+      "start": 27.303,
+      "end": 28.449
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "Twice the size of GTA Five. Three times Red Dead Two. Vice City alone, twice Los Santos. And almost as much land as GTA Four, Five and Red Dead, combined.",
+    "start": 28.749,
+    "end": 41.682,
+    "phrases": [
+     {
+      "text": "Twice the size of GTA Five.",
+      "start": 28.749,
+      "end": 31.289
+     },
+     {
+      "text": "Three times Red Dead Two.",
+      "start": 31.629,
+      "end": 33.63
+     },
+     {
+      "text": "Vice City alone, twice Los Santos.",
+      "start": 33.97,
+      "end": 36.441
+     },
+     {
+      "text": "And almost as much land as GTA Four, Five and Red Dead, combined.",
+      "start": 36.781,
+      "end": 41.682
+     }
+    ]
+   },
+   {
+    "id": "L5",
+    "text": "The fans did the maths anyway. Eighty-three square kilometres, said the leak. Eighty-six, said the mapping project. A hundred and twenty-five, said the overlays. Three hundred, said the internet.",
+    "start": 42.032,
+    "end": 55.527,
+    "phrases": [
+     {
+      "text": "The fans did the maths anyway.",
+      "start": 42.032,
+      "end": 44.257
+     },
+     {
+      "text": "Eighty-three square kilometres, said the leak.",
+      "start": 44.597,
+      "end": 47.429
+     },
+     {
+      "text": "Eighty-six, said the mapping project.",
+      "start": 47.769,
+      "end": 50.07
+     },
+     {
+      "text": "A hundred and twenty-five, said the overlays.",
+      "start": 50.41,
+      "end": 53.259
+     },
+     {
+      "text": "Three hundred, said the internet.",
+      "start": 53.599,
+      "end": 55.527
+     }
+    ]
+   },
+   {
+    "id": "L6",
+    "text": "Our best guess, on the same scale as everything else tonight: about a hundred and fifty. With an asterisk the size of Florida.",
+    "start": 55.877,
+    "end": 65.084,
+    "phrases": [
+     {
+      "text": "Our best guess, on the same scale as everything else tonight:",
+      "start": 55.877,
+      "end": 59.483
+     },
+     {
+      "text": "about a hundred and fifty.",
+      "start": 59.823,
+      "end": 61.773
+     },
+     {
+      "text": "With an asterisk the size of Florida.",
+      "start": 62.493,
+      "end": 65.084
+     }
+    ]
+   },
+   {
+    "id": "L7",
+    "text": "And the bridges? For once, nobody blew one up. The bridge out of the Keys is open from day one. The story just asks you, very politely, to stay.",
+    "start": 65.484,
+    "end": 76.299,
+    "phrases": [
+     {
+      "text": "And the bridges?",
+      "start": 65.484,
+      "end": 66.565
+     },
+     {
+      "text": "For once, nobody blew one up.",
+      "start": 66.905,
+      "end": 68.957
+     },
+     {
+      "text": "The bridge out of the Keys is open from day one.",
+      "start": 69.297,
+      "end": 72.466
+     },
+     {
+      "text": "The story just asks you, very politely, to stay.",
+      "start": 73.186,
+      "end": 76.299
+     }
+    ]
+   },
+   {
+    "id": "L8",
+    "text": "Excuse number five: there is no excuse. Which is the most suspicious one yet.",
+    "start": 76.649,
+    "end": 83.287,
+    "phrases": [
+     {
+      "text": "Excuse number five:",
+      "start": 76.649,
+      "end": 78.302
+     },
+     {
+      "text": "there is no excuse.",
+      "start": 78.642,
+      "end": 80.1
+     },
+     {
+      "text": "Which is the most suspicious one yet.",
+      "start": 80.82,
+      "end": 83.287
+     }
+    ]
+   }
+  ]
+ },
+ "short": {
+  "dur": 33.505,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Every 3D GTA map, at the same scale.",
+    "start": 0.3,
+    "end": 3.616,
+    "phrases": [
+     {
+      "text": "Every 3D GTA map, at the same scale.",
+      "start": 0.3,
+      "end": 3.616
+     }
+    ]
+   },
+   {
+    "id": "L2",
+    "text": "GTA Three: eight square kilometres. Vice City: nine. San Andreas: thirty-eight. GTA Four: sixteen. Yes, it shrank. GTA Five: seventy-six.",
+    "start": 3.916,
+    "end": 18.197,
+    "phrases": [
+     {
+      "text": "GTA Three: eight square kilometres.",
+      "start": 3.916,
+      "end": 6.76
+     },
+     {
+      "text": "Vice City: nine.",
+      "start": 7.1,
+      "end": 8.681
+     },
+     {
+      "text": "San Andreas: thirty-eight.",
+      "start": 9.021,
+      "end": 11.057
+     },
+     {
+      "text": "GTA Four: sixteen.",
+      "start": 11.397,
+      "end": 13.484
+     },
+     {
+      "text": "Yes, it shrank.",
+      "start": 14.204,
+      "end": 15.462
+     },
+     {
+      "text": "GTA Five: seventy-six.",
+      "start": 15.802,
+      "end": 18.197
+     }
+    ]
+   },
+   {
+    "id": "L3",
+    "text": "And GTA Six? Rockstar won't give a number. Our best guess: about a hundred and fifty. With an asterisk.",
+    "start": 18.597,
+    "end": 28.03,
+    "phrases": [
+     {
+      "text": "And GTA Six?",
+      "start": 18.597,
+      "end": 20.026
+     },
+     {
+      "text": "Rockstar won't give a number.",
+      "start": 20.366,
+      "end": 22.294
+     },
+     {
+      "text": "Our best guess:",
+      "start": 22.634,
+      "end": 23.763
+     },
+     {
+      "text": "about a hundred and fifty.",
+      "start": 24.103,
+      "end": 26.052
+     },
+     {
+      "text": "With an asterisk.",
+      "start": 26.772,
+      "end": 28.03
+     }
+    ]
+   },
+   {
+    "id": "L4",
+    "text": "The full story of every map is on the channel.",
+    "start": 28.43,
+    "end": 31.305,
+    "phrases": [
+     {
+      "text": "The full story of every map is on the channel.",
+      "start": 28.43,
+      "end": 31.305
+     }
+    ]
+   }
+  ]
+ }
+}

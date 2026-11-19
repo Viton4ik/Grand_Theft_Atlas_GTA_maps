@@ -1,0 +1,415 @@
+{
+ "ch00": {
+  "lead": 0.8,
+  "tail": 1.8,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "This is Liberty City in 1997. [pause] All of it.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "Twenty-nine years later, the map is so big it needs its own weather, [pause] its own wildlife\u2026 [pause] and its own state.",
+    "gap": 0.9
+   },
+   {
+    "id": "L3",
+    "text": "This is the story of how a few hundred pixels of New York became an entire fake Florida. [beat] Grand Theft Atlas.",
+    "gap": 0.9
+   }
+  ]
+ },
+ "ch01": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "The first GTA came out of DMA Design, a small Scottish studio, in 1997. [pause] Three cities, each one a real place wearing a fake moustache.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "Liberty City was New York. [pause] San Andreas, San Francisco. [pause] Vice City, Miami.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "You saw it all from straight above, like a pigeon with a criminal record. [pause] There was no minimap. [pause] There was an arrow. [beat] The arrow believed in you.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "And some streets stayed locked until you'd done enough crime to deserve them. [pause] Remember that idea. [pause] It's coming back. [pause] Many, many times.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch02": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Then GTA did something it has never done since. [pause] It went to a real city, and used its real name.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "London, 1969. [pause] Piccadilly Circus, real street names, and driving on the left. [beat] Which is still the most dangerous mission in the series.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "A free add-on, London 1961, went back eight years earlier, [pause] and even slipped in a multiplayer map of Manchester. [pause] Rain not included. [beat] Rain implied.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch03": {
+  "lead": 0.4,
+  "tail": 1.2,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "GTA 2 went the other way: a city with no real-world twin at all. [pause] Its name was literally, Anywhere.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "A retro-future metropolis in three districts: [pause] Downtown, [pause] Residential, [pause] and Industrial. [pause] Each with its own gangs, its own radio, [pause] and its own reasons to shoot you.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "So where is Anywhere? [beat] Exactly.",
+    "gap": 0.4
+   }
+  ]
+ },
+ "ch04": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2001, the camera came down from the sky and landed behind your shoulder. [beat] And everything changed.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "Liberty City returned in full 3D, built across three islands: [pause] Portland, [pause] Staunton Island, [pause] and Shoreside Vale.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "But you couldn't go everywhere at once. [pause] The bridge to Staunton had just been blown up. [pause] The bridge to Shoreside was broken. [pause] The tunnel was still under construction.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "This is the birth of the great GTA tradition: [beat] the closed bridge. [pause] Rockstar would spend the next twenty-five years inventing reasons for it.",
+    "gap": 0.35
+   },
+   {
+    "id": "L5",
+    "text": "And for the first time, a radar sat in the corner of the screen, telling you where you were. [pause] Not where to go. [pause] Just where you were.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "Total area: about eight square kilometres. [pause] Remember the number.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch05": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "One year later: Miami, 1986. [pause] Or, as the game calls it, Vice City.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "Two big islands, a bay full of millionaires' little islands in between, [pause] and pastel art-deco hotels along the beach.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "You start on the beach side, because every bridge to the mainland is closed. [pause] Why? [beat] Hurricane Hermione.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "Excuse number two: [pause] weather.",
+    "gap": 0.3
+   },
+   {
+    "id": "L5",
+    "text": "No trains, no subway. [pause] Just bridges, boats, and a lot of very fast cars with very loud stereos.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "At about nine square kilometres, it was barely bigger than Liberty City. [pause] The next step would not be small.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch06": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2004, GTA stopped making cities, [pause] and started making states.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "San Andreas had three cities. [pause] Los Santos, for Los Angeles. [pause] San Fierro, for San Francisco. [pause] And Las Venturas, for Las Vegas.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "And between the cities, for the first time, there was nothing. [beat] Glorious nothing.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "Forests, farms, desert, a dam, a giant radio telescope, [pause] and a mountain called Chiliad that every player has fallen off at least once.",
+    "gap": 0.35
+   },
+   {
+    "id": "L5",
+    "text": "A slice of three real states was squeezed into one island you could drive across in a few minutes.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "And the locked zones? [pause] This time, no hurricane. [pause] Cross the border too early, and the police simply decided you'd committed a crime. [beat] Excuse number three: because we said so.",
+    "gap": 0.35
+   },
+   {
+    "id": "L7",
+    "text": "San Andreas also let you put your own marker on the map, for the first time. [pause] Getting there was still up to you.",
+    "gap": 0.35
+   },
+   {
+    "id": "L8",
+    "text": "Thirty-eight square kilometres. [pause] Four times bigger than Vice City.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch07": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "And then, for the first time in GTA history, [pause] the map got smaller.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "GTA IV threw out the old Liberty City and rebuilt it from scratch, on a brand-new engine. [pause] Only about sixteen square kilometres. [pause] Less than half of San Andreas.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "But it grew upwards. [pause] Broker, for Brooklyn. [pause] Dukes, for Queens. [pause] Bohan, for the Bronx. [pause] Algonquin, for Manhattan. [pause] And across the river, Alderney, New Jersey, as a separate state.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "It was the most New York that New York had ever been in a game. [pause] Except for Staten Island, [pause] which simply wasn't invited.",
+    "gap": 0.35
+   },
+   {
+    "id": "L5",
+    "text": "The bridges? [pause] Closed, of course. [beat] Terror alert. [pause] Excuse number four.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "But the real revolution was in the corner of the screen. [pause] Set a waypoint, and GPS drew the route for you, [pause] and recalculated it when you ignored it. [pause] In the fancy cars, it even talked.",
+    "gap": 0.35
+   },
+   {
+    "id": "L7",
+    "text": "A year later, Chinatown Wars shrank this same city onto a Nintendo DS, [pause] and quietly cut Alderney off the map.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch08": {
+  "lead": 0.4,
+  "tail": 1.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "In 2013, GTA went back to Los Santos. [pause] But not the old one.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "GTA V rebuilt southern San Andreas: [pause] the city of Los Santos, [pause] and the wide-open Blaine County.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "Mount Chiliad came back. [pause] A salty inland sea, a desert, a military base, [pause] and a coast full of very expensive houses with very bad neighbours.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "And then it added a new direction: [beat] down.",
+    "gap": 0.35
+   },
+   {
+    "id": "L5",
+    "text": "The entire ocean floor is modelled, with wrecks, caves, [pause] and things you should probably not be swimming next to.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "Total area: almost seventy-six square kilometres. [pause] More than nine Liberty Cities from GTA III.",
+    "gap": 0.35
+   },
+   {
+    "id": "L7",
+    "text": "And still, the real city of Los Angeles alone is about seventeen times bigger. [beat] Rockstar doesn't build cities. [pause] It builds the highlights.",
+    "gap": 0.35
+   },
+   {
+    "id": "L8",
+    "text": "GTA V even had satellite maps: [pause] a snowy prologue in North Yankton, [pause] and, seven years later, Cayo Perico, [pause] the first new island ever added to GTA Online.",
+    "gap": 0.35
+   },
+   {
+    "id": "L9",
+    "text": "For more than a decade, this was the biggest GTA map ever made. [beat] Until now.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch10": {
+  "lead": 0.4,
+  "tail": 1.2,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "So here they all are, side by side, [pause] at the same scale.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "From eight square kilometres to seventy-six, [pause] with one dramatic dip in the middle, [pause] when Rockstar decided that taller beats wider.",
+    "gap": 0.35
+   },
+   {
+    "id": "L3",
+    "text": "The camera went from the sky, [pause] to the shoulder, [pause] to the bottom of the ocean. [pause] The arrow became a radar. [pause] The radar became a GPS.",
+    "gap": 0.35
+   },
+   {
+    "id": "L4",
+    "text": "And the bridges? [pause] Five games, four excuses. [beat] And then, one day, they just left it open.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "ch11": {
+  "lead": 0.6,
+  "tail": 3.0,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Every GTA map is a love letter to a real place, [pause] written by someone who's a bit too fond of explosions.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "And it all started here. [pause] A few hundred pixels, [pause] and an arrow that believed in you.",
+    "gap": 0.6
+   }
+  ]
+ },
+ "ch09": {
+  "lead": 0.5,
+  "tail": 1.4,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "On the nineteenth of November 2026, GTA went back to Vice City. [pause] And Vice City turned out to be the small part.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "Welcome to Leonida, [pause] Rockstar's Florida. [pause] The Leonida Keys, [pause] Vice City, [pause] the Grassrivers swamps, [pause] Ambrosia, [pause] Port Gellhorn, [pause] and Mount Kalaga.",
+    "gap": 0.4
+   },
+   {
+    "id": "L3",
+    "text": "So, how big is it? [pause] Rockstar won't give us a number. [beat] Only riddles.",
+    "gap": 0.4
+   },
+   {
+    "id": "L4",
+    "text": "Twice the size of GTA Five. [pause] Three times Red Dead Two. [pause] Vice City alone, twice Los Santos. [pause] And almost as much land as GTA Four, Five and Red Dead, combined.",
+    "gap": 0.3
+   },
+   {
+    "id": "L5",
+    "text": "The fans did the maths anyway. [pause] Eighty-three square kilometres, said the leak. [pause] Eighty-six, said the mapping project. [pause] A hundred and twenty-five, said the overlays. [pause] Three hundred, said the internet.",
+    "gap": 0.35
+   },
+   {
+    "id": "L6",
+    "text": "Our best guess, on the same scale as everything else tonight: [pause] about a hundred and fifty. [beat] With an asterisk the size of Florida.",
+    "gap": 0.35
+   },
+   {
+    "id": "L7",
+    "text": "And the bridges? [pause] For once, nobody blew one up. [pause] The bridge out of the Keys is open from day one. [beat] The story just asks you, very politely, to stay.",
+    "gap": 0.4
+   },
+   {
+    "id": "L8",
+    "text": "Excuse number five: [pause] there is no excuse. [beat] Which is the most suspicious one yet.",
+    "gap": 0.35
+   }
+  ]
+ },
+ "short": {
+  "lead": 0.3,
+  "tail": 2.2,
+  "lines": [
+   {
+    "id": "L1",
+    "text": "Every 3D GTA map, at the same scale.",
+    "gap": 0
+   },
+   {
+    "id": "L2",
+    "text": "GTA Three: eight square kilometres. [pause] Vice City: nine. [pause] San Andreas: thirty-eight. [pause] GTA Four: sixteen. [beat] Yes, it shrank. [pause] GTA Five: seventy-six.",
+    "gap": 0.3
+   },
+   {
+    "id": "L3",
+    "text": "And GTA Six? [pause] Rockstar won't give a number. [pause] Our best guess: [pause] about a hundred and fifty. [beat] With an asterisk.",
+    "gap": 0.4
+   },
+   {
+    "id": "L4",
+    "text": "The full story of every map is on the channel.",
+    "gap": 0.4
+   }
+  ]
+ }
+}
